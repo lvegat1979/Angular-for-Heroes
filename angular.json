@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "aungular-tour-of-heroes"
+    }
+  },
+  "defaultProject": "aungular-tour-of-heroes",
+  "cli": {
+    "analytics": "0a3425ff-59dc-41e1-b689-0f325b059d0a"
+  }
 }
